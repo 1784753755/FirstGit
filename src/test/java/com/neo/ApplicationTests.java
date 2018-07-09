@@ -14,5 +14,8 @@ public class ApplicationTests {
 	public void contextLoads() {
 		System.out.println("hello web");
 	}
-
+    @Test
+	public void web() {
+		System.out.println("hello web");
+	}
 }
